@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.clssEd.caracoroa">
    <application
-        android:label="caracoroa"
+        android:label="Heads or Tails"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
